@@ -1,0 +1,10 @@
+{
+  "main": "task1.js",
+  "license": "ISC",
+  "scripts": {
+    "test": "jest tast1.test.js"
+  },
+  "devDependencies": {
+    "jest": "^29.4.3"
+  }
+}
